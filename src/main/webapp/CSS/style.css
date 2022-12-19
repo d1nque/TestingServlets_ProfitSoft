@@ -1,0 +1,15 @@
+.mid{
+    max-width: 50vh;
+    position: relative;
+    top: 40vh;
+    left: 37vw;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.wrongLP{
+    color: darkred;
+    font-size: 15px;
+}
